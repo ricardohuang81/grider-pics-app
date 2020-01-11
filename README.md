@@ -1,3 +1,5 @@
+# React Image Search App using Unsplash API + CSS Grid; run project with `npm start`, enter a search term and press enter
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
